@@ -14,9 +14,9 @@
 ![](https://www.fmz.com/upload/asset//d08890d0c0579ca221f70f922e409ce46a07985f.jpeg)
 
 # 实盘围观
-CMT_BTC https://www.fmz.com/robot/84398
-LEO_BTC https://www.fmz.com/robot/149598
-HT_USDT https://www.fmz.com/robot/158870
+* CMT_BTC https://www.fmz.com/robot/84398
+* LEO_BTC https://www.fmz.com/robot/149598
+* HT_USDT https://www.fmz.com/robot/158870
 # 使用前提示
 策略只能保证币（计价币种）的数量变多，没办法预知和控制币价涨跌，有可能数字币多了，但人民币价值反而跌了
 数字货币交易所可能会产生Bug、故障、黑客入侵、甚至被盗，类似的黑天鹅事件，可能会造成不同程度的影响、亏损
